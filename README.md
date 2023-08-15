@@ -4,5 +4,5 @@ From the [Scillfactory Data Scirnce cource] (https://slifffactory.ru/data-scient
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/turbask/tirbask_data_science/tree/main/project_0)
-* [Проект 1. __________________](_____)
+* [Проект 1. Проект: Анализ резюме из HeadHunter](_____)
 * [Проект 2. __________________](_____)
